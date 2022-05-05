@@ -1,3 +1,5 @@
 # Python
-Lessons and Projects
-Just a small repository of current lessons and tasks.
+
+<h3>1. Lessons and Projects</h3>
+
+Just a small repository of current lessons and tasks. Not necessarily up to date.
