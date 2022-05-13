@@ -77,5 +77,3 @@ print (age)
 
 More coming soon, and much more commenting and notation coming as well. 
 
-Thanks for checking it out.
-
