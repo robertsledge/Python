@@ -28,18 +28,12 @@ print ("This string is "+"awesome!")	# We can also concatenate.
 
 ===============================
 
-
-
-===============================
-
-
 Variables and Methods
 
 ===============================
 
 script.py
 
-===============================
 
 #! /bin/python3
 
