@@ -6,7 +6,7 @@ Just a small repository of lessons and tasks. Not necessarily up to date.
 
 
 
-First Python script ever, ha:
+First Python script/lesson ever, ha:
 
 https://github.com/robertsledge/Python/blob/main/files/first.py
 
